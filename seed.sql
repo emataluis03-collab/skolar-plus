@@ -1,0 +1,1 @@
+-- Seed data is added in Phase 2 once the schema exists.
